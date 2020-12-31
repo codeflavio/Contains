@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\bin\Debug\netcoreapp2.1\Contains.deps.json
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\bin\Debug\netcoreapp2.1\Contains.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\bin\Debug\netcoreapp2.1\Contains.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\bin\Debug\netcoreapp2.1\Contains.dll
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\bin\Debug\netcoreapp2.1\Contains.pdb
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\obj\Debug\netcoreapp2.1\Contains.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\obj\Debug\netcoreapp2.1\Contains.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\obj\Debug\netcoreapp2.1\Contains.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\obj\Debug\netcoreapp2.1\Contains.dll
+D:\VISUAL STUDIO\CURSO C#\Contains\Contains\obj\Debug\netcoreapp2.1\Contains.pdb
